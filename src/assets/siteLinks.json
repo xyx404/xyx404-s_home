@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.xyx404.us.kg/"
+    "link": "https://blog.xyx404.dedyn.io/"
   },
   {
     "icon": "Train",
@@ -12,11 +12,11 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://blog.xyx404.us.kg/music/?id=12812783625&server=netease"
+    "link": "https://blog.xyx404.dedyn.io//music/?id=12812783625&server=netease"
   },
   {
     "icon": "LaptopCode",
     "name": "友链监测",
-    "link": "https://xyx404seelinkjk.us.kg/"
+    "link": "https://friendcheck.xyx404.dedyn.io/"
   }
 ]
